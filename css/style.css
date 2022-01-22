@@ -24,13 +24,13 @@ a {
 
 }
 
-/* Колонки */
+/* Колонки - для popular.html */
 
 .row {
-
+display: flex;
 }
 .col {
-
+flex: auto;
 }
 
 
@@ -40,6 +40,7 @@ a {
 
 }
 
+/* для login.html */
 .button {
 padding: 10px 25px;
 background-color: #554AF0;
