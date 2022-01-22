@@ -118,11 +118,13 @@ border-radius: 5px;
 /* Страничка подписки  */
 
 .box-green {
-
+background-color: #E1F5EA;
+padding: 20px
 }
 
 .box-purple {
-
+background-color: #EBDCF9;
+padding: 20px
 }
 
 .text-large {
