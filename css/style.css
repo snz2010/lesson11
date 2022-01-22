@@ -7,12 +7,13 @@
 /* Потом селекторы по тегам */
 
 html {
-
+font-family: arial;
 }
 
 main {
     width: 300px;
     margin: 0px auto;
+
 }
 
 p {
@@ -40,7 +41,10 @@ a {
 }
 
 .button {
-
+padding: 10px 25px;
+background-color: #554AF0;
+color: #EBDCF9;
+border-radius: 5px;
 }
 
 /* Потом специальные правила по страничкам */
@@ -48,8 +52,8 @@ a {
 /* Login*/
 
 .input-login {
-
-
+width: 300px;
+height: 40px;
 }
 
 
