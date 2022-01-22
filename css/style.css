@@ -128,9 +128,14 @@ padding: 20px
 }
 
 .text-large {
-
+font-size: 18pt;
+font-style: italic;
 }
 
 .button-link {
-
+text-decoration: none;
+padding: 10px 25px;
+background-color: #554AF0;
+color: white;
+border-radius: 5px;
 }
