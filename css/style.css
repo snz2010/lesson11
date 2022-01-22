@@ -31,6 +31,7 @@ color: #EBDCF9;
 border-radius: 5px;
 }
 
+
 /* Колонки - для popular.html */
 
 .row {
@@ -68,23 +69,43 @@ height: 40px;
 /* Страничка жанров и тегов */
 
 .genre-first {
-
+width: 300px;
+background-color: #E1F5EA;
+height: 30px;
+text-align: left;
+padding: 5px
 }
 
 .genre-second {
-
+width: 270px;
+background-color: #CBEDFF;
+height: 30px;
+text-align: left;
+padding: 5px
 }
 
 .genre-third {
-
+width: 230px;
+background-color: #EEE5BD;
+height: 30px;
+text-align: left;
+padding: 5px
 }
 
 .genre-fourth {
-
+width: 200px;
+background-color: #EBDCF9;
+height: 30px;
+text-align: left;
+padding: 5px
 }
 
+/* ссылки в разделе жанров и тегов */
 .tag {
-
+text-decoration: underline;
+background-color: white;
+color: #554AF0;
+border-radius: 5px;
 }
 
 /* Страничка популярного */
