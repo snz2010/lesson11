@@ -13,15 +13,22 @@ font-family: arial;
 main {
     width: 300px;
     margin: 0px auto;
-
 }
 
+/* для single.html */
 p {
-
+width: 230px;
+padding: 1px;
+margin: 1px;
+line-height: 1.5em;
 }
 
 a {
-
+text-decoration: none;
+padding: 10px 25px;
+background-color: #554AF0;
+color: #EBDCF9;
+border-radius: 5px;
 }
 
 /* Колонки - для popular.html */
