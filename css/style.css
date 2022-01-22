@@ -45,7 +45,8 @@ flex: auto;
 /* Потом селекторы по классам */
 
 .text-input {
-
+width: 230px;
+line-height: 2.2em;
 }
 
 /* для login.html */
