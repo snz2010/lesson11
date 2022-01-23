@@ -112,7 +112,10 @@ border-radius: 5px;
 /* Страничка популярного */
 
 .cover {
-
+text-decoration: underline;
+background-color: white;
+color: white;
+border-radius: 0px;
 }
 
 /* Страничка подписки  */
